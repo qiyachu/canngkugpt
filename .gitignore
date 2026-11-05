@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+outputs/
+data/
+*.xlsx
+*.xls
+*.docx
+*.csv
+*.png
+*.tiff
+*.pdf
+*.svg
+*.zip
+.env
+.env.*
